@@ -3,7 +3,7 @@ The classic game pong. Multiplayer-mode included.
 
 # Why Pong?
 Why not? For all those who are as young as me. Pong is this:
-![alt text](https://en.wikipedia.org/wiki/Pong#/media/File:Pong.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/f/f8/Pong.png)
 
 # Why Console?
 Well, i wanted to explore the rudimentary development of moving gui's with console-applications.
